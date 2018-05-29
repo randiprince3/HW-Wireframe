@@ -1,4 +1,4 @@
-body {
+.container {
     font-size: 18px;
     color: #777;
     background: #777;
@@ -10,6 +10,7 @@ body {
     background: #ebebeb;
     padding: 30px;
     margin-left: 45px;
+    margin-right: 45px;
     text-align: center;
 
 }
@@ -19,18 +20,21 @@ body {
     padding: 30px;
     text-align: center;
     margin-left: 45px;
+    margin-right: 45px;
 }
 
 #aside {
     float: right;
     background: #ebebeb;
-    height: 280px;
-    width: 400px;
+    height: 270px;
+    width: 345px;
     text-align: center;
+    padding-top: 10px;
+    margin-right: 45px;
     margin-bottom: 20px;
 }
 
-#container {
+#sec {
     float: left;
     background: #ebebeb;
     height: 270px;
@@ -67,6 +71,7 @@ body {
     padding: 30px;
     text-align: center;
     clear: both;
-    width: 850px;
     margin-left: 45px;
+    margin-right: 45px;
+    display: block;
 }
