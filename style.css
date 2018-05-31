@@ -11,6 +11,7 @@
     padding: 30px;
     margin-left: 45px;
     margin-right: 45px;
+    margin-bottom: 10px;
     text-align: center;
 
 }
@@ -21,35 +22,36 @@
     text-align: center;
     margin-left: 45px;
     margin-right: 45px;
+    margin-bottom: 10px;
 }
 
 #aside {
     float: right;
     background: #ebebeb;
-    height: 270px;
-    width: 345px;
+    height: 280px;
+    width: 365px;
     text-align: center;
     padding-top: 10px;
     margin-right: 45px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 #sec {
     float: left;
     background: #ebebeb;
-    height: 270px;
+    height: 265px;
     width: 495px;
     overflow: auto;
     margin-left: 45px;
-    padding-top: 10px;
+    padding-top: 25px;
     text-align: center;
 }
 
 #article {
     color: #ebebeb;
     background: #777;
-    padding: 15px;
-    margin-top: 10px;
+    padding: 10px;
+    margin-top: 25px;
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -58,12 +60,15 @@
     color: #777;
     background: #ebebeb;
     padding: 20px;
+    font-weight: bold;
+    margin-top: 10px;
 }
 
 #para {
     color: #777;
     background: #ebebeb;
     padding: 20px;
+    margin-bottom: 10px;
 }
 
 #footer {
@@ -73,5 +78,4 @@
     clear: both;
     margin-left: 45px;
     margin-right: 45px;
-    display: block;
 }
